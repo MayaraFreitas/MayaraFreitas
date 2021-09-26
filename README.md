@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MayaraFreitas)](https://github.com/MayaraFreitas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayara-freitas/)](https://www.linkedin.com/in/mayara-freitas/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/maahh_freitas/)](https://www.instagram.com/maahh_freitas/)
 
 <div>
     <a href="https://github.com/MayaraFreitas?tab=repositories">
