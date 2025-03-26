@@ -25,9 +25,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/MayaraFreitas?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafreitas&layout=compact" width="400" height="200"/>
     </a>
-    <a href="https://github.com/MayaraFreitas?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayarafreitas&,issues&show_icons=true" width="400" height="200"/>
-    </a>
 </div>
 
 
